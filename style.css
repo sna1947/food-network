@@ -1,1 +1,76 @@
-h1{ color: brown;}
+
+
+
+
+body{
+    background-color: darkcyan;
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.sec_skip_the_diet{
+    width: 80%;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top:100px;
+    margin-bottom: 0px;
+    padding: 2px;
+    
+}
+.dv_skip_the_diet01{
+   
+    border-radius: 25px;
+    margin-right: 10px;
+    padding: 30px;
+    
+}
+.dv_skip_the_diet02{
+    background-color: rgb(26, 22, 22);
+    padding: 5px;
+    
+}
+
+.spn__skip_the_diet{
+    color: coral;
+}
+
+.link_skip_the_diet{
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 25px;
+    text-decoration: none;
+    color: rgb(225, 245, 225);
+    font-weight: 800px;
+    display: inline-block;
+}
+.img_dv_img1_skip_the_diet{
+  width: 50%;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+}
+.sec_about_me{
+   
+    width: 80%;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top:100px;
+    margin-bottom: 100px;
+    padding: 2p0px;
+}
+
+.img_dv_about_me{
+    width: 50%;
+    border-radius: 4px;
+    padding: 30px;
+    width: 250px;
+}
+.dv_contnt_about_me{
+    padding: 30px; 
+}
+.h1_dv_contnt_about_me{
+    margin-top: 20px;
+    padding: 10px;
+   }
