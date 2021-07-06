@@ -111,3 +111,52 @@ body{
     padding: 5px;
     width: 200px;
    } 
+   .sec_number_scroll{
+    width: 80%;
+    background-color: rgb(245, 229, 229);
+    display: flex;
+    margin-left: 104px;
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 16px 17px 33px -8px;
+
+   }
+   
+   .number_scrol{
+       margin: 10px;
+       margin-left: 100px;
+   }
+.sec_our_team{
+    background-color: rgb(238, 212, 212);
+    width: 82%;
+    margin-left: 102px;
+    box-shadow: 16px 17px 33px -8px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    padding: 5px;
+}
+   .dv_sec_our_team01{
+    width: 80%;
+    text-align: center;
+    margin-left: 115px;
+    border-radius: 10px;
+   }
+
+.dv_sec_our_team02{
+    display: flex;
+    margin-left: 82px;
+    padding: 4px;
+    
+  
+}
+   .img_our_team{
+    width: 50%;
+    border-radius: 24px;
+    margin: left 10px
+    padding: 2px;
+    width: 200px;
+   }
+ 
+   

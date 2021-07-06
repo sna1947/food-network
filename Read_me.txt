@@ -34,7 +34,7 @@ section-7/7th-prt-footer
         <div class="dv_contnt_about_me"></div>
     </section>
 
-    <section class="my_recipies">
+    <section class="sec_my_recipies">
         <div class="dv_my_recpis_cntnt_prt">
 
         </div>
@@ -45,10 +45,10 @@ section-7/7th-prt-footer
         </div>
     </section>
 
-    <section class="number_scroll">
+    <section class="sec_number_scroll">
 
     </section>
-    <section class="our_team">
+    <section class="sec_our_team">
         <div class="dv_img_our_team"></div>
         <div class="dv_img_our_team"></div>
         <div class="dv_img_our_team"></div>
