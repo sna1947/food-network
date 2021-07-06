@@ -3,17 +3,66 @@
 
 
 body{
-   
+   background-color: #d8ddb5;
     font-family: 'Otomanopee One', sans-serif;
     margin: 0;
     padding: 0;
+}
+
+.dv_hdr_mnu{
+    background-color:#d1ccc0;
+    width: 82%;
+    height: 50px;
+    margin-left: 102px;
+    box-shadow: 20px 25px 55px -19px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding: 1px;
+    text-align: center;
+}
+.dv_hdr_mnu ul{
+    display: inline-block;
+ 
+    
+}
+.dv_hdr_mnu ul li{
+    display: inline-block;
+    
+}
+.dv_hdr_mnu ul li:first-child a{
+    border-left: 1px solid white;
+}
+.dv_hdr_mnu ul li a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 1px 9px;
+    color: darkkhaki;
+    margin-left: 10px;
+    color: rgb(12, 10, 10);
+    border-right: 1px solid white;
+   
+    }
+
+.spn_home{
+    color: rgb(245, 245, 39);
+}
+.link_heder{
+    background-image: linear-gradient(rgb(255, 0, 64), rgb(100, 247, 107));
+    padding: 10px 40px;
+    border-radius: 25px;
+    text-decoration: none;
+    color: rgb(225, 245, 225);
+    font-weight: 800px;
+    display: inline-block;
+
 }
 .sec_skip_the_diet{
     width: 80%;
     display: flex;
     margin-left: 100px;
     margin-right: 100px;
-    margin-top:100px;
+    margin-top:5px;
     margin-bottom: 0px;
     padding: 2px;
     
@@ -32,7 +81,8 @@ body{
 }
 
 .spn__skip_the_diet{
-    color: coral;
+    color: rgb(226, 93, 44);
+    font-size: 40;
 }
 
 .link_skip_the_diet{
@@ -76,7 +126,7 @@ body{
    }
    .sec_my_recipies{
     width: 80%;
-    
+    background-color: #d6e99f;
     margin-left: 100px;
     margin-right: 100px;
     margin-top:10px;
@@ -101,7 +151,7 @@ body{
    width: 50%;
    border-radius: 20px;
    padding: 5px;
-   margin: 10px;
+   margin: 15px;
    box-shadow: 12px 5px 20px -1px;
 }
 .img_food{
@@ -113,7 +163,7 @@ body{
    } 
    .sec_number_scroll{
     width: 80%;
-    background-color: rgb(245, 229, 229);
+    background-color: rgb(175, 169, 169);
     display: flex;
     margin-left: 104px;
     margin-bottom: 30px;
@@ -129,13 +179,13 @@ body{
        margin-left: 100px;
    }
 .sec_our_team{
-    background-color: rgb(238, 212, 212);
+    background-color: #9b8278;
     width: 82%;
     margin-left: 102px;
     box-shadow: 16px 17px 33px -8px;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
     border-radius: 10px;
-    padding: 5px;
+    padding: 1px;
 }
    .dv_sec_our_team01{
     width: 80%;
@@ -149,14 +199,28 @@ body{
     margin-left: 82px;
     padding: 4px;
     
-  
 }
    .img_our_team{
-    width: 50%;
     border-radius: 24px;
-    margin: left 10px
-    padding: 2px;
     width: 200px;
+    margin: 10px;
    }
+   h4{
+       text-align: center;
+   }
+ .footer{
+     background-color: #596275;
+     width: 82%;
+     height: 150px;
+     margin-left: 102px;
+     box-shadow: 16px 17px 33px -8px;
+     margin-bottom: 100px;
+     border-radius: 10px;
+     padding: 1px;
+ }
  
-   
+   .h1_footer{
+       color: #f5cd79;
+       text-align: center;
+       line-height: 1px;
+   }
